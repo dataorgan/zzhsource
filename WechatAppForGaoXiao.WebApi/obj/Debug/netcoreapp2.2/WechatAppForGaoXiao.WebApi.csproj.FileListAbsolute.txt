@@ -1,0 +1,17 @@
+D:\我的项目\WechatAppForGaoXiao\WechatAppForGaoXiao.WebApi\bin\Debug\netcoreapp2.2\WechatAppForGaoXiao.WebApi.deps.json
+D:\我的项目\WechatAppForGaoXiao\WechatAppForGaoXiao.WebApi\bin\Debug\netcoreapp2.2\WechatAppForGaoXiao.WebApi.runtimeconfig.json
+D:\我的项目\WechatAppForGaoXiao\WechatAppForGaoXiao.WebApi\bin\Debug\netcoreapp2.2\WechatAppForGaoXiao.WebApi.runtimeconfig.dev.json
+D:\我的项目\WechatAppForGaoXiao\WechatAppForGaoXiao.WebApi\bin\Debug\netcoreapp2.2\WechatAppForGaoXiao.WebApi.dll
+D:\我的项目\WechatAppForGaoXiao\WechatAppForGaoXiao.WebApi\bin\Debug\netcoreapp2.2\WechatAppForGaoXiao.WebApi.pdb
+D:\我的项目\WechatAppForGaoXiao\WechatAppForGaoXiao.WebApi\bin\Debug\netcoreapp2.2\WechatAppForGaoXiao.dll
+D:\我的项目\WechatAppForGaoXiao\WechatAppForGaoXiao.WebApi\bin\Debug\netcoreapp2.2\WechatAppForGaoXiao.pdb
+D:\我的项目\WechatAppForGaoXiao\WechatAppForGaoXiao.WebApi\obj\Debug\netcoreapp2.2\WechatAppForGaoXiao.WebApi.csprojAssemblyReference.cache
+D:\我的项目\WechatAppForGaoXiao\WechatAppForGaoXiao.WebApi\obj\Debug\netcoreapp2.2\WechatAppForGaoXiao.WebApi.csproj.CoreCompileInputs.cache
+D:\我的项目\WechatAppForGaoXiao\WechatAppForGaoXiao.WebApi\obj\Debug\netcoreapp2.2\WechatAppForGaoXiao.WebApi.RazorAssemblyInfo.cache
+D:\我的项目\WechatAppForGaoXiao\WechatAppForGaoXiao.WebApi\obj\Debug\netcoreapp2.2\WechatAppForGaoXiao.WebApi.RazorAssemblyInfo.cs
+D:\我的项目\WechatAppForGaoXiao\WechatAppForGaoXiao.WebApi\obj\Debug\netcoreapp2.2\WechatAppForGaoXiao.WebApi.AssemblyInfoInputs.cache
+D:\我的项目\WechatAppForGaoXiao\WechatAppForGaoXiao.WebApi\obj\Debug\netcoreapp2.2\WechatAppForGaoXiao.WebApi.AssemblyInfo.cs
+D:\我的项目\WechatAppForGaoXiao\WechatAppForGaoXiao.WebApi\obj\Debug\netcoreapp2.2\WechatAppForGaoXiao.WebApi.RazorTargetAssemblyInfo.cache
+D:\我的项目\WechatAppForGaoXiao\WechatAppForGaoXiao.WebApi\obj\Debug\netcoreapp2.2\WechatAppForGaoXiao.WebApi.csproj.CopyComplete
+D:\我的项目\WechatAppForGaoXiao\WechatAppForGaoXiao.WebApi\obj\Debug\netcoreapp2.2\WechatAppForGaoXiao.WebApi.dll
+D:\我的项目\WechatAppForGaoXiao\WechatAppForGaoXiao.WebApi\obj\Debug\netcoreapp2.2\WechatAppForGaoXiao.WebApi.pdb

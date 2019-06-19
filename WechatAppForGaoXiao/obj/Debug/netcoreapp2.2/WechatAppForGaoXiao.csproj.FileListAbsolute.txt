@@ -1,0 +1,8 @@
+D:\我的项目\WechatAppForGaoXiao\WechatAppForGaoXiao\bin\Debug\netcoreapp2.2\WechatAppForGaoXiao.deps.json
+D:\我的项目\WechatAppForGaoXiao\WechatAppForGaoXiao\bin\Debug\netcoreapp2.2\WechatAppForGaoXiao.dll
+D:\我的项目\WechatAppForGaoXiao\WechatAppForGaoXiao\bin\Debug\netcoreapp2.2\WechatAppForGaoXiao.pdb
+D:\我的项目\WechatAppForGaoXiao\WechatAppForGaoXiao\obj\Debug\netcoreapp2.2\WechatAppForGaoXiao.csproj.CoreCompileInputs.cache
+D:\我的项目\WechatAppForGaoXiao\WechatAppForGaoXiao\obj\Debug\netcoreapp2.2\WechatAppForGaoXiao.AssemblyInfoInputs.cache
+D:\我的项目\WechatAppForGaoXiao\WechatAppForGaoXiao\obj\Debug\netcoreapp2.2\WechatAppForGaoXiao.AssemblyInfo.cs
+D:\我的项目\WechatAppForGaoXiao\WechatAppForGaoXiao\obj\Debug\netcoreapp2.2\WechatAppForGaoXiao.dll
+D:\我的项目\WechatAppForGaoXiao\WechatAppForGaoXiao\obj\Debug\netcoreapp2.2\WechatAppForGaoXiao.pdb
